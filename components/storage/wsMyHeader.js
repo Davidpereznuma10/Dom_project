@@ -1,9 +1,9 @@
 let wsMyHeader = {
     lisTitle(p1){
         return (`
-            <img id="icono-left" src="../dom/style/img/icon.png"/>
+            <img id="icono-left" src="../style/img/icon.png"/>
             <a class="blog-header-logo text-black" href="${p1.href}">${p1.name}</a>
-            <img id="icono-rigth" src="../dom/style/img/icon.png"/>`)
+            <img id="icono-rigth" src="../style/img/icon.png"/>`)
     },
     listAlbums(p1){
         let plantilla = "";

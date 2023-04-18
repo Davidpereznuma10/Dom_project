@@ -31,6 +31,8 @@ let wsMyArticles={
                         </tr>`).join("")}     
                 </tbody>
             </table>`;
+        }else{
+            return " ";
         }
     },
     
