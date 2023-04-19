@@ -624,7 +624,7 @@ export default {
                         time: "2004-2015"
                       },
                     ],
-                    image: "/style/img/ArtisTime.png",
+                    image: "style/img/ArtisTime.png",
                   },
                 ],
               },
@@ -638,7 +638,7 @@ export default {
                     name: "A Fever You Can't Sweat Out",
                     year:"2005",
                     paragraph:"",
-                    covered:"/style/img/a_fever.jpg",
+                    covered:"style/img/a_fever.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/01hp4DvayKlnqUQrmk0vvz",
@@ -660,7 +660,7 @@ export default {
                     name: "Vices & Virtues",
                     year:"2011",
                     paragraph:"",
-                    covered:"/style/img/Vice-virtues.jpg",
+                    covered:"style/img/Vice-virtues.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL?si=aBIHx2icQQCJ2s2Gfq_mrw",
@@ -671,7 +671,7 @@ export default {
                     name: "Too Weird to Live, Too Rare to Die!",
                     year:"2013",
                     paragraph:"",
-                    covered:"/style/img/too_weird.jpg",
+                    covered:"style/img/too_weird.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge?si=G02p5x2cRLq7sg0j2mzBnA",
@@ -682,7 +682,7 @@ export default {
                     name: "Death of a Bachelor",
                     year:"2016",
                     paragraph:"",
-                    covered:"/style/img/dead.jpg",
+                    covered:"style/img/dead.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj?si=XL4jtvhSQKWM72VRYR3B_g"
@@ -693,7 +693,7 @@ export default {
                     name: "Pray for the Wicked",
                     year:"2018",
                     paragraph:"",
-                    covered:"/style/img/pray_wicked.jpg",
+                    covered:"style/img/pray_wicked.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge?si=43JjaIcRSWyIm07SL8NBdQ",
@@ -704,7 +704,7 @@ export default {
                     name: "Viva Las Vengeance",
                     year:"2022",
                     paragraph:"",
-                    covered:"/style/img/viva_vengeance.jpg",
+                    covered:"style/img/viva_vengeance.jpg",
                     btn:{
                     name:"Listen to spotify...",
                     href: "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo?si=jros39QFRFyC5Svn2VN6UQ",
@@ -715,7 +715,7 @@ export default {
     },
     dataMyBanner(){
         localStorage.setItem("myBanner",JSON.stringify({
-            Image: "/style/img/logo.jpg",
+            Image: "style/img/logo.jpg",
             info:{
                 tittle: "Panic! at the Disco is ending after nearly two decades",
                 paragraph:"Brendon Urie, the band's frontman and last remaining original member, made the announcement on Instagram. The post said the band's upcoming European tour for the 2022 album Viva Las Vengeance will be its last.\n\"Growing up in Vegas I could've never imagined where this life would take me,\" Urie wrote. \"But sometimes a journey must end for a new one to begin.",
