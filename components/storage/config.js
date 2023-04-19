@@ -649,7 +649,7 @@ export default {
                     name: "Pretty. Odd",
                     year:"2008",
                     paragraph:"",
-                    covered:"/./style/img/Pretty._Odd.jpg",
+                    covered:"./style/img/Pretty._Odd.jpg",
                     btn:{
                     name:"Listen to Spotify...",
                     href: "https://open.spotify.com/album/78EcStHa23JPRmLNan5fST?si=vbKotHbKSjOiy_snFl3-YA",
