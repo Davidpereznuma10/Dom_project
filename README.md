@@ -22,10 +22,13 @@
 
 In this case i honna show you how i use **WORKER  and LOCAL STORAGE MANEGMEN** without a FRAMEWORKS, The idea with this is to acquire knowledge about what happens within the FRAMEWORK to know where i can search if something its wrong with my code wheen i use the FRAMEWORKS. Also i storage all the data on **LOCAL STORAGE** to be easier the data call thought the [config.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/config.js), and each blog side have its own document and worker that print all the data into the [index.html](https://github.com/Davidpereznuma10/Dom_project/blob/Master/index.html). ALso i created the [main.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/main.js) that is the center of everything this document make the conection into the [index.html](https://github.com/Davidpereznuma10/Dom_project/blob/Master/index.html) and the [Components](https://github.com/Davidpereznuma10/Dom_project/tree/Master/components); On the other side i edit default [Styles](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style), adding the [Pictures](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style/img) and add my own styles on  [blog.css](https://github.com/Davidpereznuma10/Dom_project/blob/Master/style/css/blog.css).
 
-**YOU CAN FIND THESE PROJECTS ON GITHUB PAGES**
+------------
+
+# <h1 align="center">🧑‍💻🧑‍💻YOU CAN FIND THESE PROJECTS ON GITHUB PAGES🧑‍💻🧑‍💻</h1>
 
 - [Panic! At The Disco](https://davidpereznuma10.github.io/Dom_project/)
 
+------------
 
 # <h1 align="center">THE DOCUMENTATION</h1>
 
