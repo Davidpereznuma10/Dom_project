@@ -1,76 +1,66 @@
 <h1 align="center">
-🚀👨‍🚀🚀CAMPUS PROJECTS🚀👨‍🚀🚀
+🚀👨‍🚀🚀CAMPUS BLOGS🚀👨‍🚀🚀
 </h1>
 
 <div align="center"">
-  <img src="https://user-images.githubusercontent.com/122552606/224404082-4e0dcf42-b5b8-4ef2-80a8-8b77a4fed5f2.jpg" alt="Mi Logo">
+  <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/400/8292135400_69f772ba-d741-4aec-ad9f-4ef53bb8cb06.png?cb=1681946779" alt="Mi Logo">
 </div>
 
-  <h4 align="center">
-WHERE THE MAGIG IS BORN 
+  <h4 align="center" blog-post-meta>
+ 'KNOWLEDGE IS A TREASURE, BUT PRACTICE IS THE KEY TO ACQUIRE IT'
    </h4>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-FINISHED-red">
 </p>
 
 ------------
 
-
-
-
->This repository is created to store all the projects that I carry out by campus.
-giving each project a branch, in which it will have its respective development.
-
-**YOU CAN FIND THESE PROJECTS IN OUR BRANCHES**
-
-- [Menu](https://github.com/Davidpereznuma10/Campus_Projects/tree/Menu "Menu")
-- [Pyautogui](https://github.com/Davidpereznuma10/Campus_Projects/tree/Pyautogui "Pyautogui")
-- [Workshop_basic_basic](https://github.com/Davidpereznuma10/Campus_Projects/tree/workshop_basic_basic "Workshop_basic_basic")
-- [Workshop1_js](http://github.com/Davidpereznuma10/Campus_Projects/tree/workshop1_js "Workshop1_js")
-- [workshop2_js](https://github.com/Davidpereznuma10/Campus_Projects/tree/workshop2_js)
+>CAMPUS BLOGS aims to show the pages that we create in [**CAMPUSLAND**](https://www.linkedin.com/company/campuslands/).
 
 ------------
 
-# <h1 align="center">[Menu](https://github.com/Davidpereznuma10/Campus_Projects/tree/Menu "Menu")</h1>
-This branch is created for an HTML test at the beginning of my Campus process.
-the job was to create a fast food fanpage that will be compatible with computers and mobiles.z
+In this case i honna show you how i use **WORKER  and LOCAL STORAGE MANEGMEN** without a FRAMEWORKS, The idea with this is to acquire knowledge about what happens within the FRAMEWORK to know where i can search if something its wrong with my code wheen i use the FRAMEWORKS. Also i storage all the data on **LOCAL STORAGE** to be easier the data call thought the [config.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/config.js), and each blog side have its own document and worker that print all the data into the [index.html](https://github.com/Davidpereznuma10/Dom_project/blob/Master/index.html). ALso i created the [main.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/main.js) that is the center of everything this document make the conection into the [index.html](https://github.com/Davidpereznuma10/Dom_project/blob/Master/index.html) and the [Components](https://github.com/Davidpereznuma10/Dom_project/tree/Master/components); On the other side i edit default [Styles](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style), adding the [Pictures](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style/img) and add my own styles on  [blog.css](https://github.com/Davidpereznuma10/Dom_project/blob/Master/style/css/blog.css).
+
+**YOU CAN FIND THESE PROJECTS ON GITHUB PAGES**
+
+- [Panic! At The Disco](https://davidpereznuma10.github.io/Dom_project/)
+
+
+# <h1 align="center">THE DOCUMENTATION</h1>
+
+### 📝[index.html](https://github.com/Davidpereznuma10/Dom_project/blob/Master/index.html).
 
 ------------
 
-# <h1 align="center">[Pyautogui](https://github.com/Davidpereznuma10/Campus_Projects/tree/Pyautogui "Pyautogui")</h1>
-This branch is created for a PYTHON project.
-This project is about automatic mail send through commands and photos with the library:
-
-- [Pyautogui](https://pyautogui.readthedocs.io/en/latest/ "Pyautogui")
+### 📝[main.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/main.js).
 
 ------------
 
-# <h1 align="center">[Workshop_basic_basic](https://github.com/Davidpereznuma10/Campus_Projects/tree/workshop_basic_basic "Workshop_basic_basic")</h1>
-This branch is created for a JavaScript  Workshop.
-Contain a exercise about create a table with U.S.A Standard Grading System; After ask to the user by his/her note and show in the range he/she is also print a message depend the range. 
+# 🗃️[Componets.js](https://github.com/Davidpereznuma10/Dom_project/tree/Master/components).
+
+  #### 📝[MyHeader.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/myHeader.js).
+  #### 📝[MyBanner.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/myBanner.js).
+  #### 📝[MyCards.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/myCards.js).
+  #### 📝[MyArticles.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/myArticles.js).
+  #### 📝[MySide.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/mySide.js).
+
+  ## 🗃️[Storage.js](https://github.com/Davidpereznuma10/Dom_project/tree/Master/components/storage).
+
+  #### 📝[Config.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/config.js).
+  #### 📝[WsMyHeader.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/wsMyHeader.js).
+  #### 📝[WsMyBanner.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/wsMyBanner.js).
+  #### 📝[WsMyCards.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/wsMyCards.js).
+  #### 📝[WsMyArticles.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/wsMyArticles.js).
+  #### 📝[WsMySide.js](https://github.com/Davidpereznuma10/Dom_project/blob/Master/components/storage/wsMyside.js).  
 
 ------------
 
-# <h1 align="center">[Workshop1_js](http://github.com/Davidpereznuma10/Campus_Projects/tree/workshop1_js "Workshop1_js")</h1>
-This branch is created for JavaScript Workshop .
-contains 10 points where we test our knowledge previously acquired in the software skills class
+# 🗃️[Styles](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style).
 
-- [Exercise 1](https://github.com/Davidpereznuma10/Campus_Projects/commit/03fa7c27ceb94338a023456cec6388cfe660a561)
-- [Exercise 2](https://github.com/Davidpereznuma10/Campus_Projects/commit/acd5548839b080c2586f53ed4cae6886ac4acf5f)
-- [Exercise 3](https://github.com/Davidpereznuma10/Campus_Projects/commit/a9326cb049d8100ea2670f64fae0355bc9438aed)
-- [Exercise 4](https://github.com/Davidpereznuma10/Campus_Projects/commit/a7838a695c7f9bdde82420e88533552c642f737e)
-- [Exercise 5](https://github.com/Davidpereznuma10/Campus_Projects/commit/ef64ec98ca5dbbbf0127358e504d975450a88ca0)
-- [Exercise 6](https://github.com/Davidpereznuma10/Campus_Projects/commit/b637170eab2ebfc3a948dc9211af9722150d3d64)
-- [Exercise 7](https://github.com/Davidpereznuma10/Campus_Projects/commit/8ee1a6cd92518cdb8ec74fc27a623c56619f7f0b)
-- [Exercise 8](https://github.com/Davidpereznuma10/Campus_Projects/commit/71813047829fba2fcf7822917e26f6c2c69a41f1)
-- [Exercise 9](https://github.com/Davidpereznuma10/Campus_Projects/commit/4909393e10d416ef6f7cd6de30cd523772927c5c)
-- [Exercise 10](https://github.com/Davidpereznuma10/Campus_Projects/commit/28dd35b67bcc87e1bb7de464a132bc272ca176d0)
+  ## 🗃️[css](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style/css).
 
-------------
+  #### 💄[Blog.css](https://github.com/Davidpereznuma10/Dom_project/blob/Master/style/css/blog.css).
+  #### 💄[Blog.rtl.css](https://github.com/Davidpereznuma10/Dom_project/blob/Master/style/css/blog.rtl.css).
 
-# <h1 align="center">[workshop2_js](https://github.com/Davidpereznuma10/Campus_Projects/tree/workshop2_js)</h1>
-This branch is created for JavaScript Workshop .
-This is a workshop about a Campus form with Html y JavaScript with management of DOM.
-
-- [Github Pages](https://davidpereznuma10.github.io/Campus_Projects/)
+  ## 🗃️[Img](https://github.com/Davidpereznuma10/Dom_project/tree/Master/style/img).

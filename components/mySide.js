@@ -3,7 +3,6 @@ export default {
 showSide(){
     config.dataMySide();
     let dataSide= JSON.parse(localStorage.getItem("mySide"));
-    console.log(dataSide.nav);
    const ws= new Worker ("components/storage/wsMyside.js",{type:"module"});
     ws.postMessage({module:"showSidebar", data:dataSide.nav});
     ws.postMessage({module:"list", data:dataSide.nav});
