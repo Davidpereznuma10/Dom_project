@@ -24,7 +24,7 @@ In this case i honna show you how i use **WORKER  and LOCAL STORAGE MANEGMEN** w
 
 ------------
 
-# <h1 align="center">💻YOU CAN FIND THESE PROJECTS ON GITHUB PAGES💻</h1>
+# <h2 align="center">💻YOU CAN FIND THESE PROJECTS ON GITHUB PAGES💻</h2>
 
 - [Panic! At The Disco](https://davidpereznuma10.github.io/Dom_project/)
 
