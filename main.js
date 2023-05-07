@@ -15,3 +15,14 @@ myCards.showCards();
 myArticle.ShowArticles();
 //Sidebar
 myside.showSide();
+
+// Video
+const loader = document.querySelector("#loader");
+const video = document.querySelector("#video");
+
+// VIDEO FUNCTION
+video.src = './style/img/logo_horizontal.mp4';
+video.play();
+video.addEventListener('ended',(e)=>{
+ loader.style.display='none';
+})
